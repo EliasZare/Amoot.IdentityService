@@ -1,0 +1,12 @@
+﻿global using System.Linq.Expressions;
+global using Identity.Domain.Common;
+global using Identity.Domain.Interfaces.Common;
+global using Identity.Domain.Entities;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Identity.Domain.DTOs.Account;
+global using Identity.Domain.DTOs.JwtToken;
+global using Identity.Domain.Interfaces;
+global using Identity.Infrastructure.Common;
+global using Identity.Domain.UnitOfWorks;
+global using Identity.Infrastructure.Configurations;
